@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "@react-native-community",
+    "plugin:prettier/recommended",
+    "plugin:react/recommended",
+    "prettier/flowtype",
+    "prettier/react",
+    "prettier/standard"
+  ]
+}
